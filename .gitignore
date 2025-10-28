@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment files
+.env
+config.py
+
+# Model files
+*.pkl
+*.joblib
+
+# VSCode
+.vscode/
